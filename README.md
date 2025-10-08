@@ -34,11 +34,11 @@ Make sure you have the following installed in your system:
 4. Install all required packages 
      pip install -r requirements.txt
 
-# How to run the code
+## How to run the code
 1. Make sure you are in the project directory and the virtual environment is activated
 2. Open the Jupyter Notebook file (notebook.ipynb) and press run all
 
-# Notes
+## Notes
 * As per the requirements of the assignment, the datasets sub-folder contains the datasets used for training and testing the models.
 * The clean dataset (the result of the data cleaning and processing steps) is also included in the datasets sub-folder, it is called "clean_dataset.csv".
 
