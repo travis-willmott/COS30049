@@ -13,8 +13,8 @@ Make sure you have the following installed in your system:
 - Terminal (Git Bash, Powershell, Command Prompt, etc.) 
 
 ## Setting up the Virtual Environment 
-1. Nagivate to the project directory in your terminal 
-      Example: 
+1. Naviate to the project directory in your terminal 
+    Example: 
       ```bash 
      cd Downloads/cos30049/COS30049 
 
@@ -32,7 +32,7 @@ Make sure you have the following installed in your system:
             source .venv/bin/activate
 
 4. Install all required packages 
-     pip install -r requirements.txt
+        pip install -r requirements.txt
 
 ## How to run the code
 1. Make sure you are in the project directory and the virtual environment is activated
