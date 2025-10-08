@@ -13,15 +13,17 @@ Make sure you have the following installed in your system:
 - Terminal (Git Bash, Powershell, Command Prompt, etc.) 
 
 ## Setting up the Virtual Environment 
-1. Naviate to the project directory in your terminal 
+1. Navigate to the project directory in your terminal 
+
     Example: 
-      ```bash 
+    ```
      cd Downloads/cos30049/COS30049 
 
 2. Create a virtual environment 
      python -m venv .venv
 
 3. Activate the virtual environment 
+
         Git Bash: 
             source .venv/Scripts/activate 
 
@@ -31,11 +33,12 @@ Make sure you have the following installed in your system:
         Linux/macOS: 
             source .venv/bin/activate
 
-4. Install all required packages 
-        pip install -r requirements.txt
+4. Install all required packages
+    ```
+    pip install -r requirements.txt
 
 ## How to run the code
-1. Make sure you are in the project directory and the virtual environment is activated
+1. Using VS Code, make sure you are in the project directory and the virtual environment is activated
 2. Open the Jupyter Notebook file (notebook.ipynb) and press run all
 
 ## Notes
